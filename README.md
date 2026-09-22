@@ -253,6 +253,8 @@ After manual changes, refresh Splunk knowledge objects or restart Splunk if need
 
 > ⚠️ Warning: Be careful when editing CSV files manually. Keep the header row unchanged and back up the file before large edits.
 
+> 📌 Note: The [Suricata SOC Investigation](https://github.com/kaledaljebur/suricata-soc-investigation) README covers the same CSV editing steps with screenshots. The same options apply here.
+
 Useful refresh URL:
 
 ```text
