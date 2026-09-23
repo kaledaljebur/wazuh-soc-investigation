@@ -4,8 +4,8 @@
 
 Wazuh SOC Investigation is a Splunk app for investigating Wazuh security alert data. It provides SOC-focused dashboards for alert overview, authentication activity, MITRE ATT&CK mapping, host investigation, incident timeline, alert triage, vulnerability data, and file integrity monitoring.
 
-App repository:
-https://github.com/kaledaljebur/wazuh-soc-investigation
+Splunkbase:
+https://splunkbase.splunk.com/app/9835
 
 This repository is a usage guide for the app. It is intended for analysts and Splunk administrators who want to install, configure, and operate the app.
 
